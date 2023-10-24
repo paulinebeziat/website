@@ -1,0 +1,13 @@
+---
+title: Get started with Blogging
+subtitle: A template for a Blog. 
+description: | #add this sign for having multiple lines of text
+  This is a template from which the YAML metadata can be copied for a new blog post. author: Pauline Béziat
+date: today
+draft: false
+bibliography: "../../paulinebeziat_ODSclass.bib" #jump one level back is ../
+---
+
+# Heading
+
+Cite this paper [@gobler2013central]

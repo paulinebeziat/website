@@ -4,10 +4,13 @@ project:
 
 website:
   title: "Pauline Béziat"
+  site-url: "https://paulinebeziat.github.io/website/"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: posts/
+        text: Blog
 
 format:
   html:
