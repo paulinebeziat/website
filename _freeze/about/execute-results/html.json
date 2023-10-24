@@ -1,0 +1,14 @@
+{
+  "hash": "cdee3e00c9043a4d6741eb5d47daa09a",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\nsubtitle: \"Pauline Béziat\"\nimage: kilo.png\nabout: \n  template: trestles\nformat: \n  html: \n    toc: false\n---\n\n\n# My research \n\nMy research revolves around the trace element Selenium (Se). I am interested in how environmental Se cycling is affecting and affected by marine phytoplankton -- single-celled microrganisms drifting with the ocean currents. Many phytoplankton species use Se as a micronutrient, they take up inorganic Se and transform it into various biomolecules, including proteins and various metabolites, some of which can be respired into gaseous Se that emanates from the oceans into the atmosphere. This process makes the oceans the primary natural source of Se to the atmosphere, from where it rains onto the land, into soils and finally the human diet. Understanding this process is key for predicting changes to the future Se cycle.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
