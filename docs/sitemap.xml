@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://paulinebeziat.github.io/website/about.html/posts/index.html</loc>
-    <lastmod>2023-10-24T09:56:04.336Z</lastmod>
-  </url>
-  <url>
-    <loc>https://paulinebeziat.github.io/website/about.html/about.html</loc>
-    <lastmod>2023-10-24T09:56:03.804Z</lastmod>
-  </url>
-  <url>
-    <loc>https://paulinebeziat.github.io/website/about.html/posts/2023-10-24-research-project/index.html</loc>
-    <lastmod>2023-10-24T09:56:04.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://paulinebeziat.github.io/website.html/about.html</loc>
-    <lastmod>2023-10-24T09:58:34.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://paulinebeziat.github.io/website/.html/about.html</loc>
-    <lastmod>2023-10-24T09:58:41.323Z</lastmod>
+    <loc>https://paulinebeziat.github.io/website/posts/index.html</loc>
+    <lastmod>2023-10-24T10:02:59.012Z</lastmod>
   </url>
   <url>
     <loc>https://paulinebeziat.github.io/website/about.html</loc>
-    <lastmod>2023-10-24T09:58:55.224Z</lastmod>
+    <lastmod>2023-10-24T10:02:58.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paulinebeziat.github.io/website/posts/2023-10-24-research-project/index.html</loc>
+    <lastmod>2023-10-24T10:02:58.728Z</lastmod>
   </url>
 </urlset>
